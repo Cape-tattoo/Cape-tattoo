@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="ChatGPT Image 17 de ago  de 2026, 08_49_21" src="https://github.com/user-attachments/assets/a43f5655-2463-4d8a-839e-fb6a5f295427" />
+<img width="1983" height="793" alt="Cape-banner" src="https://github.com/user-attachments/assets/095afff7-b4ba-471d-a431-094f3850edf5" />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+.NET;Code.+Create.+Evolve." alt="Typing SVG" />
@@ -13,11 +13,11 @@
   stack: [Html, CSS, Javascript],
   studying: "Front End",
   focus: ["Web Development", "Full Stack", "AI"],
-  mindset: "Code. Create. Evolve."
+  mindset: "Always learning. Always coding."
 };
 ```
 
-## `02 // FOX_STACK`
+## `02 // CAPE_STACK`
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 <br/><br/>
 
-<code>FOX SYSTEM &gt; ALL MODULES LOADED ✓</code>
+<code>CAPE SYSTEM &gt; ALL MODULES LOADED ✓</code>
 
 </div>
 
@@ -71,12 +71,11 @@
 [ OK ] Developer profile loaded
 [ OK ] Front-end modules loaded
 [ OK ] Back-end modules loaded
-[ OK ] AI & Automation module loaded
 
 ROLE        : Full Stack Developer
-STACK       : React | TypeScript | .NET | C#
-BUILDING    : Rota Dev
-STUDYING    : AI & Automation
+STACK       : Html | CSS | Javascript 
+BUILDING    : System to Tattoo Artist
+STUDYING    : Javascript
 MODE        : Focused
 STATUS      : ONLINE
 
@@ -113,7 +112,7 @@ Projetos que fizeram parte da minha evolução.
 
 <code>ARCHIVE STATUS &gt; PART OF THE JOURNEY ✓</code>
 
-</div>
+<!-- </div>
 
 ## `06 // SYSTEM_METRICS`
 
@@ -121,7 +120,7 @@ Projetos que fizeram parte da minha evolução.
 
 <img width="900" height="330" alt="fox-metrics" src="https://github.com/user-attachments/assets/91d0e519-1226-46b1-82e2-0275a1cb6c03" />
 
-</div>
+</div> -->
 
 ## `07 // CONTRIBUTION_MATRIX`
 
@@ -130,8 +129,7 @@ Projetos que fizeram parte da minha evolução.
 <img src="https://img.shields.io/badge/CONTRIBUTION_SYSTEM-F97316?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LilianMilan&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F59E0B&currStreakLabel=FED7AA&sideLabels=FED7AA&dates=FED7AA" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cape-tattoo&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -163,9 +161,8 @@ Projetos que fizeram parte da minha evolução.
 
 <code>@CAPE_TATTOO // BUILDING • SHARING • EVOLVING</code>
 
-<br/><br/>
 
-### `Thanks for visiting my profille.`<img width="1983" height="793" alt="Cape-banner" src="https://github.com/user-attachments/assets/095afff7-b4ba-471d-a431-094f3850edf5" />
+### `Thanks for visiting my profille.`
 
 
 <code>CONNECTION STATUS &gt; OPEN ✓</code>
