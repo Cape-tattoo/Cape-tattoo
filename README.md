@@ -6,7 +6,7 @@
 
 </div>
 
-## `01 // FOX_IDENTITY`
+## `01 // CAPE_IDENTITY`
 
 ```typescript
   const Cape = {
@@ -64,7 +64,7 @@
 
 </div>
 
-## `03 // FOX_TERMINAL`
+## `03 // CAPE_TERMINAL`
 
 ```bash
 > booting fox system...
