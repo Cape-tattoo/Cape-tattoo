@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="Cape-banner" src="https://github.com/user-attachments/assets/095afff7-b4ba-471d-a431-094f3850edf5" />
+<img width="1983" height="793" alt="Cape-banner1" src="https://github.com/user-attachments/assets/7d547cc1-49ee-40d1-93d2-adf7af5e2cb9" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+.NET;Code.+Create.+Evolve." alt="Typing SVG" />
